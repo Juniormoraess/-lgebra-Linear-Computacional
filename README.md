@@ -1,2 +1,2 @@
 # Algebra-Linear-Computacional
-Implementações de processos QR de matrizes
+Implementações em python de processos QR de matrizes.
